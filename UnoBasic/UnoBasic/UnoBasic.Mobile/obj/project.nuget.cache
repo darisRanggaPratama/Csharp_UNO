@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YBQm4VMBv/C5lJ/59aGicB5EiZwPiWmvsIx2BLSlXFyZHyquNLe13CP5Va4aWo/VVEMtgNdsAQX9nnoA1RP4nw==",
+  "dgSpecHash": "uDmziWAvvWTE13rgIN9g4gjeAUZYSSALmpl9fLVONq4d1ZL1Z2MbCBVjRi9kx5hpzQv3aZ4qT5qdTgFewM+p6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Uno_Platform\\Csharp_UNO\\dasar_uno\\UnoBasic\\UnoBasic\\UnoBasic.Mobile\\UnoBasic.Mobile.csproj",
+  "projectFilePath": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Csharp_UNO\\UnoBasic\\UnoBasic\\UnoBasic.Mobile\\UnoBasic.Mobile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\raden\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\raden\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
@@ -98,7 +98,7 @@
     "C:\\Users\\raden\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm64\\6.0.13\\microsoft.aspnetcore.app.runtime.linux-arm64.6.0.13.nupkg.sha512",
     "C:\\Users\\raden\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.13\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.13.nupkg.sha512",
     "C:\\Users\\raden\\.nuget\\packages\\microsoft.ios.ref\\16.0.527\\microsoft.ios.ref.16.0.527.nupkg.sha512",
-    "C:\\Users\\raden\\.nuget\\packages\\microsoft.ios.runtime.iossimulator-x64\\16.0.527\\microsoft.ios.runtime.iossimulator-x64.16.0.527.nupkg.sha512",
+    "C:\\Users\\raden\\.nuget\\packages\\microsoft.ios.runtime.ios-arm64\\16.0.527\\microsoft.ios.runtime.ios-arm64.16.0.527.nupkg.sha512",
     "C:\\Users\\raden\\.nuget\\packages\\microsoft.maccatalyst.runtime.maccatalyst-x64\\15.4.471\\microsoft.maccatalyst.runtime.maccatalyst-x64.15.4.471.nupkg.sha512",
     "C:\\Users\\raden\\.nuget\\packages\\microsoft.maccatalyst.ref\\15.4.471\\microsoft.maccatalyst.ref.15.4.471.nupkg.sha512"
   ],

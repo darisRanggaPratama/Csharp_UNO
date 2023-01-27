@@ -1,0 +1,8 @@
+obj/uno-bootstrap.d.ts
+obj/uno-bootstrap.js
+manifest.json
+Assets/SplashScreen.png
+SharedAssets.md
+manifest.json
+UnoBasic.Wasm.staticwebassets.runtime.json
+UnoBasic.Wasm.exe

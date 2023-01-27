@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3nDjkOBAwtgRcOL1ScmAAmgyG8lwe1zmGyUZ2dveRUSn7LWDl6i46dv5zRkBWNFMB1b2cAuhOLuxXj3X3J1eFA==",
+  "dgSpecHash": "MdoHmQQF/4QZUihwiz1RVCmUfnb6IgqDZ3n9xzghY7vqV57QbvjNUGPYn66VZG6nezpb73/i2Q68bAI6xDwbig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Uno_Platform\\Csharp_UNO\\dasar_uno\\UnoBasic\\UnoBasic\\UnoBasic.Server\\UnoBasic.Server.csproj",
+  "projectFilePath": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Csharp_UNO\\UnoBasic\\UnoBasic\\UnoBasic.Server\\UnoBasic.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\raden\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
     "C:\\Users\\raden\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",

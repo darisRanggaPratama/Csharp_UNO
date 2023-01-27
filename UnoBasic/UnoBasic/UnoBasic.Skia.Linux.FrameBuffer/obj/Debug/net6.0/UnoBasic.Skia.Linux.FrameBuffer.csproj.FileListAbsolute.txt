@@ -1,0 +1,5 @@
+C:\Users\raden\Documents\UploadGithub\Belajar_Csharp\Csharp_UNO\UnoBasic\UnoBasic\UnoBasic.Skia.Linux.FrameBuffer\obj\Debug\net6.0\UnoBasic.Skia.Linux.FrameBuffer.csproj.AssemblyReference.cache
+C:\Users\raden\Documents\UploadGithub\Belajar_Csharp\Csharp_UNO\UnoBasic\UnoBasic\UnoBasic.Skia.Linux.FrameBuffer\obj\Debug\net6.0\UnoBasic.Skia.Linux.FrameBuffer.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raden\Documents\UploadGithub\Belajar_Csharp\Csharp_UNO\UnoBasic\UnoBasic\UnoBasic.Skia.Linux.FrameBuffer\obj\Debug\net6.0\UnoBasic.Skia.Linux.FrameBuffer.AssemblyInfoInputs.cache
+C:\Users\raden\Documents\UploadGithub\Belajar_Csharp\Csharp_UNO\UnoBasic\UnoBasic\UnoBasic.Skia.Linux.FrameBuffer\obj\Debug\net6.0\UnoBasic.Skia.Linux.FrameBuffer.AssemblyInfo.cs
+C:\Users\raden\Documents\UploadGithub\Belajar_Csharp\Csharp_UNO\UnoBasic\UnoBasic\UnoBasic.Skia.Linux.FrameBuffer\obj\Debug\net6.0\UnoBasic.Skia.Linux.FrameBuffer.csproj.CoreCompileInputs.cache

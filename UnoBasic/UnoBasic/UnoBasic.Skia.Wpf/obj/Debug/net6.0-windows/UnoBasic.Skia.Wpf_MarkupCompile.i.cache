@@ -4,17 +4,17 @@
 exe
 C#
 .cs
-C:\Users\raden\Documents\UploadGithub\Belajar_Csharp\Uno_Platform\Csharp_UNO\dasar_uno\UnoBasic\UnoBasic\UnoBasic.Skia.Wpf\obj\Debug\net6.0-windows\
+C:\Users\raden\Documents\UploadGithub\Belajar_Csharp\Csharp_UNO\UnoBasic\UnoBasic\UnoBasic.Skia.Wpf\obj\Debug\net6.0-windows\
 UnoBasic.Skia.Wpf
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP;HAS_UNO;HAS_UNO_WINUI;UNO_HAS_FRAMEWORKELEMENT_MEASUREOVERRIDE;UNO_HAS_NO_IDEPENDENCYOBJECT;UNO_REFERENCE_API;UNO_REFERENCE_API;HAS_UNO_SKIA;HAS_UNO_SKIA_WPF
-C:\Users\raden\Documents\UploadGithub\Belajar_Csharp\Uno_Platform\Csharp_UNO\dasar_uno\UnoBasic\UnoBasic\UnoBasic.Skia.Wpf\App.xaml
+C:\Users\raden\Documents\UploadGithub\Belajar_Csharp\Csharp_UNO\UnoBasic\UnoBasic\UnoBasic.Skia.Wpf\App.xaml
 11407045341
-2-995252314
-71731331510
+2-2115879596
+71520799976
 2391444050672
 MainWindow.xaml;
 
-True
+False
 

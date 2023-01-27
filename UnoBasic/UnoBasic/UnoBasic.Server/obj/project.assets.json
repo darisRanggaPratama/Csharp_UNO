@@ -7112,17 +7112,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Uno_Platform\\Csharp_UNO\\dasar_uno\\UnoBasic\\UnoBasic\\UnoBasic.Server\\UnoBasic.Server.csproj",
+      "projectUniqueName": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Csharp_UNO\\UnoBasic\\UnoBasic\\UnoBasic.Server\\UnoBasic.Server.csproj",
       "projectName": "UnoBasic.Server",
-      "projectPath": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Uno_Platform\\Csharp_UNO\\dasar_uno\\UnoBasic\\UnoBasic\\UnoBasic.Server\\UnoBasic.Server.csproj",
+      "projectPath": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Csharp_UNO\\UnoBasic\\UnoBasic\\UnoBasic.Server\\UnoBasic.Server.csproj",
       "packagesPath": "C:\\Users\\raden\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Uno_Platform\\Csharp_UNO\\dasar_uno\\UnoBasic\\UnoBasic\\UnoBasic.Server\\obj\\",
+      "outputPath": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Csharp_UNO\\UnoBasic\\UnoBasic\\UnoBasic.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Uno_Platform\\Csharp_UNO\\dasar_uno\\UnoBasic\\NuGet.Config",
+        "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Csharp_UNO\\UnoBasic\\NuGet.Config",
         "C:\\Users\\raden\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -7140,8 +7140,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Uno_Platform\\Csharp_UNO\\dasar_uno\\UnoBasic\\UnoBasic\\UnoBasic.Wasm\\UnoBasic.Wasm.csproj": {
-              "projectPath": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Uno_Platform\\Csharp_UNO\\dasar_uno\\UnoBasic\\UnoBasic\\UnoBasic.Wasm\\UnoBasic.Wasm.csproj"
+            "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Csharp_UNO\\UnoBasic\\UnoBasic\\UnoBasic.Wasm\\UnoBasic.Wasm.csproj": {
+              "projectPath": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Csharp_UNO\\UnoBasic\\UnoBasic\\UnoBasic.Wasm\\UnoBasic.Wasm.csproj"
             }
           }
         }

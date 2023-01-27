@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Uno_Platform\\Csharp_UNO\\dasar_uno\\UnoBasic\\UnoBasic\\UnoBasic.Windows\\UnoBasic.Windows.csproj": {}
+    "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Csharp_UNO\\UnoBasic\\UnoBasic\\UnoBasic.Windows\\UnoBasic.Windows.csproj": {}
   },
   "projects": {
-    "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Uno_Platform\\Csharp_UNO\\dasar_uno\\UnoBasic\\UnoBasic\\UnoBasic.Windows\\UnoBasic.Windows.csproj": {
+    "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Csharp_UNO\\UnoBasic\\UnoBasic\\UnoBasic.Windows\\UnoBasic.Windows.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Uno_Platform\\Csharp_UNO\\dasar_uno\\UnoBasic\\UnoBasic\\UnoBasic.Windows\\UnoBasic.Windows.csproj",
+        "projectUniqueName": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Csharp_UNO\\UnoBasic\\UnoBasic\\UnoBasic.Windows\\UnoBasic.Windows.csproj",
         "projectName": "UnoBasic.Windows",
-        "projectPath": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Uno_Platform\\Csharp_UNO\\dasar_uno\\UnoBasic\\UnoBasic\\UnoBasic.Windows\\UnoBasic.Windows.csproj",
+        "projectPath": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Csharp_UNO\\UnoBasic\\UnoBasic\\UnoBasic.Windows\\UnoBasic.Windows.csproj",
         "packagesPath": "C:\\Users\\raden\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Uno_Platform\\Csharp_UNO\\dasar_uno\\UnoBasic\\UnoBasic\\UnoBasic.Windows\\obj\\",
+        "outputPath": "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Csharp_UNO\\UnoBasic\\UnoBasic\\UnoBasic.Windows\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Uno_Platform\\Csharp_UNO\\dasar_uno\\UnoBasic\\NuGet.Config",
+          "C:\\Users\\raden\\Documents\\UploadGithub\\Belajar_Csharp\\Csharp_UNO\\UnoBasic\\NuGet.Config",
           "C:\\Users\\raden\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
