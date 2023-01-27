@@ -32,11 +32,11 @@ namespace UnoBasic
 			helloTextBlock.Text = "Hello, From Raden";
 
 #if __ANDROID__ || __IOS__
-			textVariasi.Text = "Hai, I'm C Sharp on smartphone";
+			textVariasi.Text = "Hai, I'm C Sharp on MOBILE";
 #elif HAS_UNO_WASM || __WASM__
-			textVariasi.Text = "Hai, I'm C SHARP ON WASM";
+			textVariasi.Text = "Hai, I'm C SHARP ON WEB (WASM)";
 #else
-			textVariasi.Text = UnoBasic.Helpers.Greetings.GetStandardGreeting();
+			textVariasi.Text = "Just Hello";
 #endif
 		}
 	}

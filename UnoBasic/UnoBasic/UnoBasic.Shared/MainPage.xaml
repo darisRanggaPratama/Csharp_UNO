@@ -15,13 +15,15 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <StackPanel>
+		<!--Teks-->
       <TextBlock 
 		  x:Name="helloTextBlock"
-		  Text="Rangga World" Margin="20" FontSize="30" />
+		  Text="Fantasy World" Margin="20" FontSize="30" />
 		<TextBlock
 			x:Name="textVariasi"
 			Text="Awalnya" Margin="20" FontSize="20"
 			/>
+		<!--Tombol-->
 		<Button 
 			Margin="20"
 			Content="Change text"
